@@ -26,7 +26,7 @@ class HomeScreen extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.center,
               children: [
                 const Text(
-                  "Weather App",
+                  "Weather Application",
                   style: TextStyle(
                     fontSize: 28,
                     fontWeight: FontWeight.bold,
